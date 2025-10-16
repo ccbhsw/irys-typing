@@ -1,0 +1,1481 @@
+2025/10/12 14:17:15 - 已加载 1 个地址
+2025/10/12 14:17:15 - 已加载 0 条代理
+2025/10/12 14:19:16 - 当前时间: 2025-10-12 14:19:16
+2025/10/12 14:19:16 - 当前执行账号:1 - 0x
+2025/10/12 14:19:17 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:19:17 - 第1次-成绩提交:，提交失败:{"error":"Invalid wallet address format"}
+2025/10/12 14:19:17 - 35秒后进行下一轮
+2025/10/12 14:24:05 - 已加载 1 个地址
+2025/10/12 14:24:05 - 已加载 0 条代理
+2025/10/12 14:24:19 - 当前时间: 2025-10-12 14:24:19
+2025/10/12 14:24:19 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/12 14:24:21 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:24:21 - 35秒后进行下一轮
+2025/10/12 14:24:57 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:24:57 - 35秒后进行下一轮
+2025/10/12 14:25:33 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:25:33 - 35秒后进行下一轮
+2025/10/12 14:26:09 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:26:09 - 35秒后进行下一轮
+2025/10/12 14:26:45 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:26:45 - 35秒后进行下一轮
+2025/10/12 14:27:21 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:27:21 - 35秒后进行下一轮
+2025/10/12 14:27:57 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:27:57 - 35秒后进行下一轮
+2025/10/12 14:28:33 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:28:33 - 35秒后进行下一轮
+2025/10/12 14:29:08 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:29:08 - 35秒后进行下一轮
+2025/10/12 14:29:45 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 14:29:45 - 35秒后进行下一轮
+2025/10/12 14:30:20 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:30:20 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:30:20 - 35秒后进行下一轮
+2025/10/12 14:30:56 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:30:56 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:30:56 - 35秒后进行下一轮
+2025/10/12 14:31:32 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:31:32 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:31:32 - 35秒后进行下一轮
+2025/10/12 14:32:08 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:32:08 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:32:08 - 35秒后进行下一轮
+2025/10/12 14:32:44 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:32:44 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:32:44 - 35秒后进行下一轮
+2025/10/12 14:33:20 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:33:20 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:33:20 - 35秒后进行下一轮
+2025/10/12 14:33:56 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:33:56 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:33:56 - 35秒后进行下一轮
+2025/10/12 14:34:32 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:34:32 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:34:32 - 35秒后进行下一轮
+2025/10/12 14:35:07 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:35:07 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:35:07 - 35秒后进行下一轮
+2025/10/12 14:35:43 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:35:43 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:35:43 - 35秒后进行下一轮
+2025/10/12 14:36:19 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:36:19 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:36:19 - 35秒后进行下一轮
+2025/10/12 14:36:55 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:36:55 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:36:55 - 35秒后进行下一轮
+2025/10/12 14:37:31 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:37:31 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:37:31 - 35秒后进行下一轮
+2025/10/12 14:38:06 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:38:06 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:38:06 - 35秒后进行下一轮
+2025/10/12 14:38:42 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:38:42 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:38:42 - 35秒后进行下一轮
+2025/10/12 14:39:18 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:39:18 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:39:18 - 35秒后进行下一轮
+2025/10/12 14:39:54 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:39:54 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:39:54 - 35秒后进行下一轮
+2025/10/12 14:40:30 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:40:30 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:40:30 - 35秒后进行下一轮
+2025/10/12 14:41:05 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:41:05 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:41:05 - 35秒后进行下一轮
+2025/10/12 14:41:41 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:41:41 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:41:41 - 35秒后进行下一轮
+2025/10/12 14:42:17 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:42:17 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:42:17 - 35秒后进行下一轮
+2025/10/12 14:42:54 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:42:54 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:42:54 - 35秒后进行下一轮
+2025/10/12 14:43:30 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:43:30 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:43:30 - 35秒后进行下一轮
+2025/10/12 14:44:06 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:44:06 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:44:06 - 35秒后进行下一轮
+2025/10/12 14:44:42 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:44:42 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:44:42 - 35秒后进行下一轮
+2025/10/12 14:45:19 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:45:19 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:45:19 - 35秒后进行下一轮
+2025/10/12 14:45:55 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:45:55 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:45:55 - 35秒后进行下一轮
+2025/10/12 14:46:31 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:46:31 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:46:31 - 35秒后进行下一轮
+2025/10/12 14:47:07 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:47:07 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:47:07 - 35秒后进行下一轮
+2025/10/12 14:47:43 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:47:43 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:47:43 - 35秒后进行下一轮
+2025/10/12 14:48:19 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:48:19 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:48:19 - 35秒后进行下一轮
+2025/10/12 14:48:55 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:48:55 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:48:55 - 35秒后进行下一轮
+2025/10/12 14:49:31 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:49:31 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:49:31 - 35秒后进行下一轮
+2025/10/12 14:50:07 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:50:07 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:50:07 - 35秒后进行下一轮
+2025/10/12 14:50:44 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 14:50:44 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 14:50:44 - 35秒后进行下一轮
+2025/10/12 17:10:18 - 已加载 1 个地址
+2025/10/12 17:10:18 - 已加载 0 条代理
+2025/10/12 17:10:24 - 当前时间: 2025-10-12 17:10:24
+2025/10/12 17:10:24 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/12 17:10:25 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:10:25 - 35秒后进行下一轮
+2025/10/12 17:11:02 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:11:02 - 35秒后进行下一轮
+2025/10/12 17:11:37 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:11:37 - 35秒后进行下一轮
+2025/10/12 17:12:13 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:12:13 - 35秒后进行下一轮
+2025/10/12 17:12:49 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:12:49 - 35秒后进行下一轮
+2025/10/12 17:13:25 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:13:25 - 35秒后进行下一轮
+2025/10/12 17:14:01 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:14:01 - 35秒后进行下一轮
+2025/10/12 17:14:37 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:14:37 - 35秒后进行下一轮
+2025/10/12 17:15:13 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:15:13 - 35秒后进行下一轮
+2025/10/12 17:15:49 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 17:15:49 - 35秒后进行下一轮
+2025/10/12 17:16:25 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:16:25 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:16:25 - 35秒后进行下一轮
+2025/10/12 17:17:01 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:17:01 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:17:01 - 35秒后进行下一轮
+2025/10/12 17:17:37 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:17:37 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:17:37 - 35秒后进行下一轮
+2025/10/12 17:18:12 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:18:12 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:18:12 - 35秒后进行下一轮
+2025/10/12 17:18:48 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:18:48 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:18:48 - 35秒后进行下一轮
+2025/10/12 17:19:24 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:19:24 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:19:24 - 35秒后进行下一轮
+2025/10/12 17:20:00 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:20:00 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:20:00 - 35秒后进行下一轮
+2025/10/12 17:20:35 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:20:35 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:20:35 - 35秒后进行下一轮
+2025/10/12 17:21:11 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:21:11 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:21:11 - 35秒后进行下一轮
+2025/10/12 17:21:47 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:21:47 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:21:47 - 35秒后进行下一轮
+2025/10/12 17:22:23 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:22:23 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:22:23 - 35秒后进行下一轮
+2025/10/12 17:22:59 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:22:59 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:22:59 - 35秒后进行下一轮
+2025/10/12 17:23:34 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:23:34 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:23:34 - 35秒后进行下一轮
+2025/10/12 17:24:10 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:24:10 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:24:10 - 35秒后进行下一轮
+2025/10/12 17:24:46 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:24:46 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:24:46 - 35秒后进行下一轮
+2025/10/12 17:25:22 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:25:22 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:25:22 - 35秒后进行下一轮
+2025/10/12 17:25:58 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:25:58 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:25:58 - 35秒后进行下一轮
+2025/10/12 17:26:34 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:26:34 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:26:34 - 35秒后进行下一轮
+2025/10/12 17:27:09 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:27:09 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:27:09 - 35秒后进行下一轮
+2025/10/12 17:27:45 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:27:45 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:27:45 - 35秒后进行下一轮
+2025/10/12 17:28:21 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:28:21 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:28:21 - 35秒后进行下一轮
+2025/10/12 17:28:57 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:28:57 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:28:57 - 35秒后进行下一轮
+2025/10/12 17:29:33 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:29:33 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:29:33 - 35秒后进行下一轮
+2025/10/12 17:30:09 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:30:09 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:30:09 - 35秒后进行下一轮
+2025/10/12 17:30:44 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:30:44 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:30:44 - 35秒后进行下一轮
+2025/10/12 17:31:20 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:31:20 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:31:20 - 35秒后进行下一轮
+2025/10/12 17:31:56 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:31:56 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:31:56 - 35秒后进行下一轮
+2025/10/12 17:32:32 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:32:32 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:32:32 - 35秒后进行下一轮
+2025/10/12 17:33:08 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:33:08 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:33:08 - 35秒后进行下一轮
+2025/10/12 17:33:44 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:33:44 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:33:44 - 35秒后进行下一轮
+2025/10/12 17:34:20 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:34:20 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:34:20 - 35秒后进行下一轮
+2025/10/12 17:34:56 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:34:56 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:34:56 - 35秒后进行下一轮
+2025/10/12 17:35:32 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:35:32 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:35:32 - 35秒后进行下一轮
+2025/10/12 17:36:08 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:36:08 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:36:08 - 35秒后进行下一轮
+2025/10/12 17:36:44 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:36:44 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:36:44 - 35秒后进行下一轮
+2025/10/12 17:37:20 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:37:20 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:37:20 - 35秒后进行下一轮
+2025/10/12 17:37:56 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:37:56 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:37:56 - 35秒后进行下一轮
+2025/10/12 17:38:31 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:38:31 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:38:31 - 35秒后进行下一轮
+2025/10/12 17:39:07 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:39:07 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:39:07 - 35秒后进行下一轮
+2025/10/12 17:39:43 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:39:43 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:39:43 - 35秒后进行下一轮
+2025/10/12 17:40:19 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:40:19 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:40:19 - 35秒后进行下一轮
+2025/10/12 17:40:55 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:40:55 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:40:55 - 35秒后进行下一轮
+2025/10/12 17:41:31 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:41:31 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:41:31 - 35秒后进行下一轮
+2025/10/12 17:42:07 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:42:07 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:42:07 - 35秒后进行下一轮
+2025/10/12 17:42:42 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:42:42 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:42:42 - 35秒后进行下一轮
+2025/10/12 17:43:18 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:43:18 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:43:18 - 35秒后进行下一轮
+2025/10/12 17:43:54 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:43:54 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:43:54 - 35秒后进行下一轮
+2025/10/12 17:44:30 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:44:30 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:44:30 - 35秒后进行下一轮
+2025/10/12 17:45:06 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:45:06 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:45:06 - 35秒后进行下一轮
+2025/10/12 17:45:42 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:45:42 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:45:42 - 35秒后进行下一轮
+2025/10/12 17:46:18 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:46:18 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:46:18 - 35秒后进行下一轮
+2025/10/12 17:46:54 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/12 17:46:54 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/12 17:46:54 - 35秒后进行下一轮
+2025/10/12 18:27:34 - 已加载 1 个地址
+2025/10/12 18:27:34 - 已加载 0 条代理
+2025/10/12 18:27:38 - 当前时间: 2025-10-12 18:27:38
+2025/10/12 18:27:38 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/12 18:27:40 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 18:27:40 - 35秒后进行下一轮
+2025/10/12 18:28:16 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 18:28:16 - 35秒后进行下一轮
+2025/10/12 18:28:52 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 18:28:52 - 35秒后进行下一轮
+2025/10/12 18:29:27 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 18:29:27 - 35秒后进行下一轮
+2025/10/12 18:30:04 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 18:30:04 - 35秒后进行下一轮
+2025/10/12 20:17:13 - 已加载 1 个地址
+2025/10/12 20:17:13 - 已加载 0 条代理
+2025/10/12 20:17:19 - 当前时间: 2025-10-12 20:17:19
+2025/10/12 20:17:19 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/12 20:17:20 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 20:17:20 - 35秒后进行下一轮
+2025/10/12 20:17:56 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 20:17:56 - 35秒后进行下一轮
+2025/10/12 20:18:32 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 20:18:32 - 35秒后进行下一轮
+2025/10/12 20:19:09 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 20:19:09 - 35秒后进行下一轮
+2025/10/12 20:19:45 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/12 20:19:45 - 35秒后进行下一轮
+2025/10/13 6:57:36 - 已加载 1 个地址
+2025/10/13 6:57:36 - 已加载 0 条代理
+2025/10/13 6:57:41 - 当前时间: 2025-10-13 06:57:41
+2025/10/13 6:57:41 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 6:57:42 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 6:57:42 - 35秒后进行下一轮
+2025/10/13 6:58:17 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 6:58:17 - 35秒后进行下一轮
+2025/10/13 6:58:53 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 6:58:53 - 35秒后进行下一轮
+2025/10/13 6:59:28 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 6:59:28 - 35秒后进行下一轮
+2025/10/13 7:00:04 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 7:00:04 - 35秒后进行下一轮
+2025/10/13 7:00:40 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 7:00:40 - 35秒后进行下一轮
+2025/10/13 7:01:15 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 7:01:15 - 35秒后进行下一轮
+2025/10/13 7:01:51 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 7:01:51 - 35秒后进行下一轮
+2025/10/13 7:02:27 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 7:02:27 - 35秒后进行下一轮
+2025/10/13 7:03:02 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 7:03:02 - 35秒后进行下一轮
+2025/10/13 7:03:38 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 7:03:38 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 7:03:38 - 35秒后进行下一轮
+2025/10/13 7:04:13 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 7:04:13 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 7:04:13 - 35秒后进行下一轮
+2025/10/13 8:45:08 - 已加载 1 个地址
+2025/10/13 8:45:08 - 已加载 0 条代理
+2025/10/13 8:45:12 - 当前时间: 2025-10-13 08:45:12
+2025/10/13 8:45:12 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 8:45:14 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:45:14 - 35秒后进行下一轮
+2025/10/13 8:45:50 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:45:50 - 35秒后进行下一轮
+2025/10/13 8:46:26 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:46:26 - 35秒后进行下一轮
+2025/10/13 8:47:02 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:47:02 - 35秒后进行下一轮
+2025/10/13 8:47:38 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:47:38 - 35秒后进行下一轮
+2025/10/13 8:48:13 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:48:13 - 35秒后进行下一轮
+2025/10/13 8:48:50 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:48:50 - 35秒后进行下一轮
+2025/10/13 8:49:25 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:49:25 - 35秒后进行下一轮
+2025/10/13 8:50:01 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:50:01 - 35秒后进行下一轮
+2025/10/13 8:50:37 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 8:50:37 - 35秒后进行下一轮
+2025/10/13 8:51:13 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:51:13 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:51:13 - 35秒后进行下一轮
+2025/10/13 8:51:49 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:51:49 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:51:49 - 35秒后进行下一轮
+2025/10/13 8:52:24 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:52:25 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:52:25 - 35秒后进行下一轮
+2025/10/13 8:53:01 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:53:02 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:53:02 - 35秒后进行下一轮
+2025/10/13 8:53:39 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:53:40 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:53:40 - 35秒后进行下一轮
+2025/10/13 8:54:16 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:54:16 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:54:16 - 35秒后进行下一轮
+2025/10/13 8:54:52 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:54:52 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:54:52 - 35秒后进行下一轮
+2025/10/13 8:55:28 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:55:28 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:55:28 - 35秒后进行下一轮
+2025/10/13 8:56:04 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:56:04 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:56:04 - 35秒后进行下一轮
+2025/10/13 8:56:41 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:56:41 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:56:42 - 35秒后进行下一轮
+2025/10/13 8:57:17 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:57:17 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:57:17 - 35秒后进行下一轮
+2025/10/13 8:57:53 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:57:53 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:57:53 - 35秒后进行下一轮
+2025/10/13 8:58:29 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:58:29 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:58:29 - 35秒后进行下一轮
+2025/10/13 8:59:05 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:59:05 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:59:05 - 35秒后进行下一轮
+2025/10/13 8:59:40 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 8:59:40 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 8:59:40 - 35秒后进行下一轮
+2025/10/13 9:00:16 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:00:16 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:00:16 - 35秒后进行下一轮
+2025/10/13 9:00:52 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:00:52 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:00:52 - 35秒后进行下一轮
+2025/10/13 9:01:28 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:01:28 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:01:28 - 35秒后进行下一轮
+2025/10/13 9:02:03 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:02:03 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:02:03 - 35秒后进行下一轮
+2025/10/13 9:02:39 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:02:39 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:02:39 - 35秒后进行下一轮
+2025/10/13 9:03:15 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:03:15 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:03:15 - 35秒后进行下一轮
+2025/10/13 9:03:51 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:03:51 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:03:51 - 35秒后进行下一轮
+2025/10/13 9:04:26 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:04:26 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:04:26 - 35秒后进行下一轮
+2025/10/13 9:05:02 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:05:02 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:05:02 - 35秒后进行下一轮
+2025/10/13 9:05:38 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:05:38 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:05:38 - 35秒后进行下一轮
+2025/10/13 9:06:13 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:06:13 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:06:13 - 35秒后进行下一轮
+2025/10/13 9:06:49 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:06:50 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:06:50 - 35秒后进行下一轮
+2025/10/13 9:07:26 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:07:26 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:07:26 - 35秒后进行下一轮
+2025/10/13 9:08:02 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:08:02 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:08:02 - 35秒后进行下一轮
+2025/10/13 9:08:37 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:08:37 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:08:37 - 35秒后进行下一轮
+2025/10/13 9:09:13 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:09:13 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:09:13 - 35秒后进行下一轮
+2025/10/13 9:09:48 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:09:48 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:09:48 - 35秒后进行下一轮
+2025/10/13 9:10:24 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:10:24 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:10:24 - 35秒后进行下一轮
+2025/10/13 9:11:00 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:11:00 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:11:00 - 35秒后进行下一轮
+2025/10/13 9:11:36 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:11:36 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:11:36 - 35秒后进行下一轮
+2025/10/13 9:12:12 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:12:12 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:12:12 - 35秒后进行下一轮
+2025/10/13 9:12:47 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:12:47 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:12:47 - 35秒后进行下一轮
+2025/10/13 9:13:23 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:13:23 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:13:23 - 35秒后进行下一轮
+2025/10/13 9:13:58 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:13:58 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:13:58 - 35秒后进行下一轮
+2025/10/13 9:14:34 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:14:34 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:14:34 - 35秒后进行下一轮
+2025/10/13 9:15:10 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:15:10 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:15:10 - 35秒后进行下一轮
+2025/10/13 9:15:45 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:15:45 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:15:45 - 35秒后进行下一轮
+2025/10/13 9:16:21 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:16:21 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:16:21 - 35秒后进行下一轮
+2025/10/13 9:16:56 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:16:56 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:16:56 - 35秒后进行下一轮
+2025/10/13 9:17:32 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:17:32 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:17:32 - 35秒后进行下一轮
+2025/10/13 9:18:08 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:18:08 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:18:08 - 35秒后进行下一轮
+2025/10/13 9:18:43 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:18:43 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:18:43 - 35秒后进行下一轮
+2025/10/13 9:19:19 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:19:19 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:19:19 - 35秒后进行下一轮
+2025/10/13 9:19:55 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:19:55 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:19:55 - 35秒后进行下一轮
+2025/10/13 9:20:30 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:20:30 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:20:30 - 35秒后进行下一轮
+2025/10/13 9:21:06 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:21:06 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:21:06 - 35秒后进行下一轮
+2025/10/13 9:21:42 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:21:42 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:21:42 - 35秒后进行下一轮
+2025/10/13 9:22:17 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:22:17 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:22:17 - 35秒后进行下一轮
+2025/10/13 9:22:53 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:22:53 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:22:53 - 35秒后进行下一轮
+2025/10/13 9:23:29 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:23:29 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:23:29 - 35秒后进行下一轮
+2025/10/13 9:24:04 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:24:05 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:24:05 - 35秒后进行下一轮
+2025/10/13 9:24:40 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:24:40 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:24:40 - 35秒后进行下一轮
+2025/10/13 9:25:16 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:25:16 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:25:16 - 35秒后进行下一轮
+2025/10/13 9:25:51 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:25:51 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:25:51 - 35秒后进行下一轮
+2025/10/13 9:26:27 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:26:27 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:26:27 - 35秒后进行下一轮
+2025/10/13 9:27:03 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:27:03 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:27:03 - 35秒后进行下一轮
+2025/10/13 9:27:39 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:27:39 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:27:39 - 35秒后进行下一轮
+2025/10/13 9:28:14 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:28:14 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:28:14 - 35秒后进行下一轮
+2025/10/13 9:28:50 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:28:50 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:28:50 - 35秒后进行下一轮
+2025/10/13 9:29:26 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:29:26 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:29:26 - 35秒后进行下一轮
+2025/10/13 9:30:01 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:30:01 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:30:01 - 35秒后进行下一轮
+2025/10/13 9:30:37 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:30:37 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:30:37 - 35秒后进行下一轮
+2025/10/13 9:31:12 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:31:12 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:31:12 - 35秒后进行下一轮
+2025/10/13 9:31:48 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:31:48 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:31:48 - 35秒后进行下一轮
+2025/10/13 9:32:24 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:32:24 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:32:24 - 35秒后进行下一轮
+2025/10/13 9:32:59 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:32:59 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:32:59 - 35秒后进行下一轮
+2025/10/13 9:33:35 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:33:35 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:33:35 - 35秒后进行下一轮
+2025/10/13 9:34:10 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:34:10 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:34:10 - 35秒后进行下一轮
+2025/10/13 9:34:46 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:34:46 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:34:46 - 35秒后进行下一轮
+2025/10/13 9:35:22 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:35:22 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:35:23 - 35秒后进行下一轮
+2025/10/13 9:35:59 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:35:59 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:35:59 - 35秒后进行下一轮
+2025/10/13 9:36:34 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:36:34 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:36:34 - 35秒后进行下一轮
+2025/10/13 9:37:10 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:37:10 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:37:10 - 35秒后进行下一轮
+2025/10/13 9:37:45 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:37:45 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:37:45 - 35秒后进行下一轮
+2025/10/13 9:38:21 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:38:21 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:38:21 - 35秒后进行下一轮
+2025/10/13 9:38:57 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:38:57 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:38:57 - 35秒后进行下一轮
+2025/10/13 9:39:32 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:39:32 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:39:32 - 35秒后进行下一轮
+2025/10/13 9:40:08 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:40:08 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:40:08 - 35秒后进行下一轮
+2025/10/13 9:40:44 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:40:44 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:40:44 - 35秒后进行下一轮
+2025/10/13 9:41:21 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:41:22 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:41:23 - 35秒后进行下一轮
+2025/10/13 9:41:59 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:42:00 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:42:01 - 35秒后进行下一轮
+2025/10/13 9:42:37 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:42:37 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:42:37 - 35秒后进行下一轮
+2025/10/13 9:43:13 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:43:13 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:43:13 - 35秒后进行下一轮
+2025/10/13 9:43:49 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:43:49 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:43:49 - 35秒后进行下一轮
+2025/10/13 9:44:24 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:44:24 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:44:24 - 35秒后进行下一轮
+2025/10/13 9:45:00 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 9:45:00 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 9:45:00 - 35秒后进行下一轮
+2025/10/13 9:45:39 - 第11次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 9:45:44 - 35秒后进行下一轮
+2025/10/13 10:59:15 - 已加载 1 个地址
+2025/10/13 10:59:15 - 已加载 0 条代理
+2025/10/13 10:59:19 - 当前时间: 2025-10-13 10:59:19
+2025/10/13 10:59:19 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 10:59:21 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 10:59:21 - 35秒后进行下一轮
+2025/10/13 10:59:57 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 10:59:57 - 35秒后进行下一轮
+2025/10/13 11:00:33 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 11:00:33 - 35秒后进行下一轮
+2025/10/13 11:01:08 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 11:01:08 - 35秒后进行下一轮
+2025/10/13 11:01:44 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 11:01:44 - 35秒后进行下一轮
+2025/10/13 11:02:20 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 11:02:20 - 35秒后进行下一轮
+2025/10/13 11:02:56 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 11:02:56 - 35秒后进行下一轮
+2025/10/13 11:03:37 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 11:03:37 - 35秒后进行下一轮
+2025/10/13 11:04:13 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 11:04:13 - 35秒后进行下一轮
+2025/10/13 11:04:50 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 11:04:50 - 35秒后进行下一轮
+2025/10/13 11:05:27 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 11:05:27 - 第11次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 11:05:27 - 35秒后进行下一轮
+2025/10/13 18:12:44 - 已加载 1 个地址
+2025/10/13 18:12:44 - 已加载 0 条代理
+2025/10/13 18:12:50 - 当前时间: 2025-10-13 18:12:50
+2025/10/13 18:12:50 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 18:12:57 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:12:57 - 35秒后进行下一轮
+2025/10/13 18:13:32 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:13:32 - 35秒后进行下一轮
+2025/10/13 18:14:08 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:14:08 - 35秒后进行下一轮
+2025/10/13 18:14:44 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:14:44 - 35秒后进行下一轮
+2025/10/13 18:15:19 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:15:19 - 35秒后进行下一轮
+2025/10/13 18:15:55 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:15:55 - 35秒后进行下一轮
+2025/10/13 18:16:30 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:16:30 - 35秒后进行下一轮
+2025/10/13 18:17:06 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:17:06 - 35秒后进行下一轮
+2025/10/13 18:17:42 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:17:42 - 35秒后进行下一轮
+2025/10/13 18:18:18 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 18:18:18 - 35秒后进行下一轮
+2025/10/13 18:25:04 - 已加载 1 个地址
+2025/10/13 18:25:04 - 已加载 0 条代理
+2025/10/13 18:25:09 - 当前时间: 2025-10-13 18:25:09
+2025/10/13 18:25:09 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 18:25:10 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 18:25:10 - 第1次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 18:25:10 - 35秒后进行下一轮
+2025/10/13 18:25:46 - 异常信息:Response status code does not indicate success: 400 (Bad Request).
+2025/10/13 18:25:46 - 第1次-成绩提交:，提交失败:{"error":"Hourly submission limit reached. Try again later."}
+2025/10/13 18:25:46 - 35秒后进行下一轮
+2025/10/13 18:36:38 - 已加载 1 个地址
+2025/10/13 18:36:38 - 已加载 0 条代理
+2025/10/13 18:36:42 - 当前时间: 2025-10-13 18:36:42
+2025/10/13 18:36:42 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 18:36:48 - ⚠  接口限制，账号 1 暂停70分钟后重试
+2025/10/13 18:36:48 - 第1次-成绩提交:一小时限制，等待中
+2025/10/13 18:36:48 - 35秒后进行下一轮
+2025/10/13 18:37:23 - ⚠  接口限制，账号 1 暂停70分钟后重试
+2025/10/13 18:37:23 - 第2次-成绩提交:一小时限制，等待中
+2025/10/13 18:37:23 - 35秒后进行下一轮
+2025/10/13 18:37:59 - ⚠  接口限制，账号 1 暂停70分钟后重试
+2025/10/13 18:37:59 - 第3次-成绩提交:一小时限制，等待中
+2025/10/13 18:37:59 - 35秒后进行下一轮
+2025/10/13 18:38:34 - ⚠  接口限制，账号 1 暂停70分钟后重试
+2025/10/13 18:38:34 - 第4次-成绩提交:一小时限制，等待中
+2025/10/13 18:38:34 - 35秒后进行下一轮
+2025/10/13 18:40:57 - 已加载 1 个地址
+2025/10/13 18:40:57 - 已加载 0 条代理
+2025/10/13 18:41:00 - 当前时间: 2025-10-13 18:41:00
+2025/10/13 18:41:00 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 18:41:00 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/13 18:41:00 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/13 21:15:26 - 已加载 1 个地址
+2025/10/13 21:15:26 - 已加载 0 条代理
+2025/10/13 21:15:36 - 当前时间: 2025-10-13 21:15:36
+2025/10/13 21:15:36 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 21:15:37 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:15:37 - 35秒后进行下一轮
+2025/10/13 21:16:17 - 提交失败: The SSL connection could not be established, see inner exception.
+2025/10/13 21:16:17 - 第2次-成绩提交:提交失败
+2025/10/13 21:16:17 - 35秒后进行下一轮
+2025/10/13 21:16:53 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:16:53 - 35秒后进行下一轮
+2025/10/13 21:17:28 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:17:28 - 35秒后进行下一轮
+2025/10/13 21:18:04 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:18:04 - 35秒后进行下一轮
+2025/10/13 21:18:40 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:18:40 - 35秒后进行下一轮
+2025/10/13 21:19:15 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:19:15 - 35秒后进行下一轮
+2025/10/13 21:19:51 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:19:51 - 35秒后进行下一轮
+2025/10/13 21:20:26 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:20:26 - 35秒后进行下一轮
+2025/10/13 21:21:02 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:21:02 - 35秒后进行下一轮
+2025/10/13 21:21:38 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/13 21:21:38 - 35秒后进行下一轮
+2025/10/13 21:22:14 - 当前时间: 2025-10-13 21:22:14
+2025/10/13 21:22:14 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/13 21:22:14 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/13 21:22:14 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 1:50:25 - 已加载 1 个地址
+2025/10/14 1:50:25 - 已加载 0 条代理
+2025/10/14 1:50:27 - 当前时间: 2025-10-14 01:50:27
+2025/10/14 1:50:27 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 1:50:28 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:50:28 - 35秒后进行下一轮
+2025/10/14 1:51:04 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:51:04 - 35秒后进行下一轮
+2025/10/14 1:51:39 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:51:39 - 35秒后进行下一轮
+2025/10/14 1:52:15 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:52:15 - 35秒后进行下一轮
+2025/10/14 1:52:51 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:52:51 - 35秒后进行下一轮
+2025/10/14 1:53:30 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:53:32 - 35秒后进行下一轮
+2025/10/14 1:54:08 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:54:08 - 35秒后进行下一轮
+2025/10/14 1:54:44 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:54:44 - 35秒后进行下一轮
+2025/10/14 1:55:20 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:55:20 - 35秒后进行下一轮
+2025/10/14 1:55:55 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 1:55:55 - 35秒后进行下一轮
+2025/10/14 1:56:31 - 当前时间: 2025-10-14 01:56:31
+2025/10/14 1:56:31 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 1:56:32 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 1:56:32 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 3:16:32 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:16:32 - 35秒后进行下一轮
+2025/10/14 3:17:08 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:17:08 - 35秒后进行下一轮
+2025/10/14 3:17:43 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:17:43 - 35秒后进行下一轮
+2025/10/14 3:18:19 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:18:19 - 35秒后进行下一轮
+2025/10/14 3:18:54 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:18:54 - 35秒后进行下一轮
+2025/10/14 3:19:30 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:19:30 - 35秒后进行下一轮
+2025/10/14 3:20:06 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:20:06 - 35秒后进行下一轮
+2025/10/14 3:20:41 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:20:41 - 35秒后进行下一轮
+2025/10/14 3:21:17 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:21:17 - 35秒后进行下一轮
+2025/10/14 3:21:53 - 当前时间: 2025-10-14 03:21:53
+2025/10/14 3:21:53 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 3:21:53 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 3:21:53 - 35秒后进行下一轮
+2025/10/14 3:22:29 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 3:22:29 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 4:42:29 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:42:29 - 35秒后进行下一轮
+2025/10/14 4:43:05 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:43:05 - 35秒后进行下一轮
+2025/10/14 4:43:40 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:43:40 - 35秒后进行下一轮
+2025/10/14 4:44:16 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:44:16 - 35秒后进行下一轮
+2025/10/14 4:44:51 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:44:51 - 35秒后进行下一轮
+2025/10/14 4:45:27 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:45:27 - 35秒后进行下一轮
+2025/10/14 4:46:03 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:46:03 - 35秒后进行下一轮
+2025/10/14 4:46:38 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:46:38 - 35秒后进行下一轮
+2025/10/14 4:47:14 - 当前时间: 2025-10-14 04:47:14
+2025/10/14 4:47:14 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 4:47:15 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:47:15 - 35秒后进行下一轮
+2025/10/14 4:47:51 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 4:47:51 - 35秒后进行下一轮
+2025/10/14 4:48:26 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 4:48:26 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 6:08:27 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:08:27 - 35秒后进行下一轮
+2025/10/14 6:09:02 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:09:02 - 35秒后进行下一轮
+2025/10/14 6:09:38 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:09:38 - 35秒后进行下一轮
+2025/10/14 6:10:13 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:10:13 - 35秒后进行下一轮
+2025/10/14 6:10:49 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:10:49 - 35秒后进行下一轮
+2025/10/14 6:11:24 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:11:25 - 35秒后进行下一轮
+2025/10/14 6:12:00 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:12:00 - 35秒后进行下一轮
+2025/10/14 6:12:36 - 当前时间: 2025-10-14 06:12:36
+2025/10/14 6:12:36 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 6:12:37 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:12:37 - 35秒后进行下一轮
+2025/10/14 6:13:12 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:13:12 - 35秒后进行下一轮
+2025/10/14 6:13:48 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 6:13:48 - 35秒后进行下一轮
+2025/10/14 6:14:23 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 6:14:23 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 7:34:24 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:34:24 - 35秒后进行下一轮
+2025/10/14 7:34:59 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:34:59 - 35秒后进行下一轮
+2025/10/14 7:35:35 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:35:35 - 35秒后进行下一轮
+2025/10/14 7:36:10 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:36:10 - 35秒后进行下一轮
+2025/10/14 7:36:46 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:36:46 - 35秒后进行下一轮
+2025/10/14 7:37:22 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:37:22 - 35秒后进行下一轮
+2025/10/14 7:37:58 - 当前时间: 2025-10-14 07:37:58
+2025/10/14 7:37:58 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 7:37:59 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:37:59 - 35秒后进行下一轮
+2025/10/14 7:38:35 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:38:35 - 35秒后进行下一轮
+2025/10/14 7:39:10 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:39:11 - 35秒后进行下一轮
+2025/10/14 7:39:47 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 7:39:47 - 35秒后进行下一轮
+2025/10/14 7:40:22 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 7:40:22 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 9:00:23 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:00:23 - 35秒后进行下一轮
+2025/10/14 9:00:59 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:00:59 - 35秒后进行下一轮
+2025/10/14 9:01:34 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:01:34 - 35秒后进行下一轮
+2025/10/14 9:02:10 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:02:10 - 35秒后进行下一轮
+2025/10/14 9:02:46 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:02:46 - 35秒后进行下一轮
+2025/10/14 9:03:22 - 当前时间: 2025-10-14 09:03:22
+2025/10/14 9:03:22 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 9:03:22 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:03:22 - 35秒后进行下一轮
+2025/10/14 9:03:58 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:03:58 - 35秒后进行下一轮
+2025/10/14 9:04:33 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:04:33 - 35秒后进行下一轮
+2025/10/14 9:05:09 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:05:09 - 35秒后进行下一轮
+2025/10/14 9:05:44 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 9:05:44 - 35秒后进行下一轮
+2025/10/14 9:06:20 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 9:06:20 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 9:56:03 - 已加载 1 个地址
+2025/10/14 9:56:03 - 已加载 0 条代理
+2025/10/14 9:56:08 - 当前时间: 2025-10-14 09:56:08
+2025/10/14 9:56:08 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 9:56:09 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 9:56:09 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 11:16:10 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:16:10 - 35秒后进行下一轮
+2025/10/14 11:16:45 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:16:45 - 35秒后进行下一轮
+2025/10/14 11:17:21 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:17:21 - 35秒后进行下一轮
+2025/10/14 11:17:57 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:17:57 - 35秒后进行下一轮
+2025/10/14 11:18:32 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:18:32 - 35秒后进行下一轮
+2025/10/14 11:19:08 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:19:08 - 35秒后进行下一轮
+2025/10/14 11:19:44 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:19:44 - 35秒后进行下一轮
+2025/10/14 11:20:19 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:20:19 - 35秒后进行下一轮
+2025/10/14 11:20:55 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:20:55 - 35秒后进行下一轮
+2025/10/14 11:21:31 - 当前时间: 2025-10-14 11:21:31
+2025/10/14 11:21:32 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 11:21:34 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 11:21:34 - 35秒后进行下一轮
+2025/10/14 11:22:10 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 11:22:10 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 12:55:58 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 12:55:58 - 35秒后进行下一轮
+2025/10/14 12:56:33 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 12:56:33 - 35秒后进行下一轮
+2025/10/14 12:57:10 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 12:57:10 - 35秒后进行下一轮
+2025/10/14 12:57:45 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 12:57:45 - 35秒后进行下一轮
+2025/10/14 12:58:21 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 12:58:21 - 35秒后进行下一轮
+2025/10/14 12:58:56 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 12:58:56 - 35秒后进行下一轮
+2025/10/14 12:59:32 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 12:59:32 - 35秒后进行下一轮
+2025/10/14 13:00:08 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 13:00:08 - 35秒后进行下一轮
+2025/10/14 13:00:44 - 当前时间: 2025-10-14 13:00:44
+2025/10/14 13:00:44 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 13:00:44 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 13:00:44 - 35秒后进行下一轮
+2025/10/14 13:01:20 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 13:01:20 - 35秒后进行下一轮
+2025/10/14 13:01:55 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 13:01:55 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 14:21:56 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:21:56 - 35秒后进行下一轮
+2025/10/14 14:22:32 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:22:32 - 35秒后进行下一轮
+2025/10/14 14:23:08 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:23:08 - 35秒后进行下一轮
+2025/10/14 14:23:44 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:23:44 - 35秒后进行下一轮
+2025/10/14 14:24:20 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:24:20 - 35秒后进行下一轮
+2025/10/14 14:24:56 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:24:56 - 35秒后进行下一轮
+2025/10/14 14:25:32 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:25:32 - 35秒后进行下一轮
+2025/10/14 14:26:08 - 当前时间: 2025-10-14 14:26:08
+2025/10/14 14:26:08 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 14:26:09 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:26:09 - 35秒后进行下一轮
+2025/10/14 14:26:45 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:26:45 - 35秒后进行下一轮
+2025/10/14 14:27:21 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 14:27:21 - 35秒后进行下一轮
+2025/10/14 14:27:57 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 14:27:57 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 15:48:00 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 15:48:00 - 35秒后进行下一轮
+2025/10/14 15:48:36 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 15:48:36 - 35秒后进行下一轮
+2025/10/14 15:49:12 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 15:49:12 - 35秒后进行下一轮
+2025/10/14 15:49:49 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 15:49:49 - 35秒后进行下一轮
+2025/10/14 15:50:25 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 15:50:25 - 35秒后进行下一轮
+2025/10/14 15:51:01 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 15:51:01 - 35秒后进行下一轮
+2025/10/14 15:51:37 - 当前时间: 2025-10-14 15:51:37
+2025/10/14 15:51:37 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 15:51:38 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 15:51:38 - 35秒后进行下一轮
+2025/10/14 19:28:42 - 已加载 1 个地址
+2025/10/14 19:28:42 - 已加载 0 条代理
+2025/10/14 19:28:46 - 当前时间: 2025-10-14 19:28:46
+2025/10/14 19:28:46 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 19:28:47 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:28:47 - 35秒后进行下一轮
+2025/10/14 19:29:23 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:29:23 - 35秒后进行下一轮
+2025/10/14 19:29:59 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:29:59 - 35秒后进行下一轮
+2025/10/14 19:30:35 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:30:35 - 35秒后进行下一轮
+2025/10/14 19:31:11 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:31:11 - 35秒后进行下一轮
+2025/10/14 19:31:47 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:31:47 - 35秒后进行下一轮
+2025/10/14 19:32:23 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:32:23 - 35秒后进行下一轮
+2025/10/14 19:32:59 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:32:59 - 35秒后进行下一轮
+2025/10/14 19:33:36 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:33:36 - 35秒后进行下一轮
+2025/10/14 19:34:12 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 19:34:12 - 35秒后进行下一轮
+2025/10/14 19:34:48 - 当前时间: 2025-10-14 19:34:48
+2025/10/14 19:34:48 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 19:34:49 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 19:34:49 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 20:54:54 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:54:55 - 35秒后进行下一轮
+2025/10/14 20:55:30 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:55:30 - 35秒后进行下一轮
+2025/10/14 20:56:06 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:56:06 - 35秒后进行下一轮
+2025/10/14 20:56:41 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:56:41 - 35秒后进行下一轮
+2025/10/14 20:57:17 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:57:17 - 35秒后进行下一轮
+2025/10/14 20:57:53 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:57:53 - 35秒后进行下一轮
+2025/10/14 20:58:28 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:58:28 - 35秒后进行下一轮
+2025/10/14 20:59:04 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:59:04 - 35秒后进行下一轮
+2025/10/14 20:59:40 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 20:59:40 - 35秒后进行下一轮
+2025/10/14 21:00:16 - 当前时间: 2025-10-14 21:00:16
+2025/10/14 21:00:16 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 21:00:21 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 21:00:21 - 35秒后进行下一轮
+2025/10/14 21:00:57 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 21:00:57 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 22:20:57 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:20:57 - 35秒后进行下一轮
+2025/10/14 22:21:33 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:21:33 - 35秒后进行下一轮
+2025/10/14 22:22:09 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:22:09 - 35秒后进行下一轮
+2025/10/14 22:22:45 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:22:45 - 35秒后进行下一轮
+2025/10/14 22:23:26 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:23:26 - 35秒后进行下一轮
+2025/10/14 22:24:02 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:24:02 - 35秒后进行下一轮
+2025/10/14 22:24:38 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:24:38 - 35秒后进行下一轮
+2025/10/14 22:25:13 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:25:13 - 35秒后进行下一轮
+2025/10/14 22:25:49 - 当前时间: 2025-10-14 22:25:49
+2025/10/14 22:25:49 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 22:25:50 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:25:50 - 35秒后进行下一轮
+2025/10/14 22:26:26 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 22:26:26 - 35秒后进行下一轮
+2025/10/14 22:27:02 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 22:27:02 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/14 23:47:03 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:47:03 - 35秒后进行下一轮
+2025/10/14 23:47:40 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:47:40 - 35秒后进行下一轮
+2025/10/14 23:48:16 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:48:16 - 35秒后进行下一轮
+2025/10/14 23:48:51 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:48:51 - 35秒后进行下一轮
+2025/10/14 23:49:32 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:49:32 - 35秒后进行下一轮
+2025/10/14 23:50:13 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:50:13 - 35秒后进行下一轮
+2025/10/14 23:50:48 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:50:48 - 35秒后进行下一轮
+2025/10/14 23:51:24 - 当前时间: 2025-10-14 23:51:24
+2025/10/14 23:51:24 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/14 23:51:26 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:51:26 - 35秒后进行下一轮
+2025/10/14 23:52:01 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:52:01 - 35秒后进行下一轮
+2025/10/14 23:52:37 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/14 23:52:37 - 35秒后进行下一轮
+2025/10/14 23:53:20 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/14 23:53:20 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 1:13:21 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:13:21 - 35秒后进行下一轮
+2025/10/15 1:13:57 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:13:57 - 35秒后进行下一轮
+2025/10/15 1:14:33 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:14:33 - 35秒后进行下一轮
+2025/10/15 1:15:09 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:15:09 - 35秒后进行下一轮
+2025/10/15 1:15:45 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:15:45 - 35秒后进行下一轮
+2025/10/15 1:16:20 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:16:20 - 35秒后进行下一轮
+2025/10/15 1:16:56 - 当前时间: 2025-10-15 01:16:56
+2025/10/15 1:16:56 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 1:16:57 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:16:57 - 35秒后进行下一轮
+2025/10/15 1:17:33 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:17:33 - 35秒后进行下一轮
+2025/10/15 1:18:08 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:18:08 - 35秒后进行下一轮
+2025/10/15 1:18:44 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 1:18:44 - 35秒后进行下一轮
+2025/10/15 1:19:19 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 1:19:19 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 2:39:20 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:39:20 - 35秒后进行下一轮
+2025/10/15 2:39:56 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:39:56 - 35秒后进行下一轮
+2025/10/15 2:40:31 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:40:31 - 35秒后进行下一轮
+2025/10/15 2:41:07 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:41:07 - 35秒后进行下一轮
+2025/10/15 2:41:42 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:41:42 - 35秒后进行下一轮
+2025/10/15 2:42:18 - 当前时间: 2025-10-15 02:42:18
+2025/10/15 2:42:18 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 2:42:19 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:42:19 - 35秒后进行下一轮
+2025/10/15 2:42:55 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:42:55 - 35秒后进行下一轮
+2025/10/15 2:43:30 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:43:30 - 35秒后进行下一轮
+2025/10/15 2:44:06 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:44:06 - 35秒后进行下一轮
+2025/10/15 2:44:41 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 2:44:41 - 35秒后进行下一轮
+2025/10/15 2:45:17 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 2:45:17 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 4:05:18 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:05:18 - 35秒后进行下一轮
+2025/10/15 4:05:54 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:05:54 - 35秒后进行下一轮
+2025/10/15 4:06:30 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:06:30 - 35秒后进行下一轮
+2025/10/15 4:07:06 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:07:07 - 35秒后进行下一轮
+2025/10/15 4:07:44 - 当前时间: 2025-10-15 04:07:44
+2025/10/15 4:07:44 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 4:07:44 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:07:44 - 35秒后进行下一轮
+2025/10/15 4:08:20 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:08:20 - 35秒后进行下一轮
+2025/10/15 4:08:56 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:08:56 - 35秒后进行下一轮
+2025/10/15 4:09:31 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:09:31 - 35秒后进行下一轮
+2025/10/15 4:10:07 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:10:07 - 35秒后进行下一轮
+2025/10/15 4:10:42 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 4:10:42 - 35秒后进行下一轮
+2025/10/15 4:11:18 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 4:11:19 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 5:31:19 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:31:19 - 35秒后进行下一轮
+2025/10/15 5:31:55 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:31:55 - 35秒后进行下一轮
+2025/10/15 5:32:30 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:32:30 - 35秒后进行下一轮
+2025/10/15 5:33:06 - 当前时间: 2025-10-15 05:33:06
+2025/10/15 5:33:06 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 5:33:07 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:33:07 - 35秒后进行下一轮
+2025/10/15 5:33:42 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:33:42 - 35秒后进行下一轮
+2025/10/15 5:34:18 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:34:18 - 35秒后进行下一轮
+2025/10/15 5:34:54 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:34:54 - 35秒后进行下一轮
+2025/10/15 5:35:29 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:35:29 - 35秒后进行下一轮
+2025/10/15 5:36:05 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:36:05 - 35秒后进行下一轮
+2025/10/15 5:36:40 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 5:36:40 - 35秒后进行下一轮
+2025/10/15 5:37:16 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 5:37:16 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 6:57:19 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 6:57:19 - 35秒后进行下一轮
+2025/10/15 6:57:57 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 6:57:59 - 35秒后进行下一轮
+2025/10/15 6:58:39 - 当前时间: 2025-10-15 06:58:39
+2025/10/15 6:58:41 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 6:58:46 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 6:58:49 - 35秒后进行下一轮
+2025/10/15 6:59:28 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 6:59:29 - 35秒后进行下一轮
+2025/10/15 7:00:05 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 7:00:05 - 35秒后进行下一轮
+2025/10/15 7:00:42 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 7:00:44 - 35秒后进行下一轮
+2025/10/15 7:01:20 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 7:01:20 - 35秒后进行下一轮
+2025/10/15 7:01:56 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 7:01:56 - 35秒后进行下一轮
+2025/10/15 7:02:33 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 7:02:34 - 35秒后进行下一轮
+2025/10/15 7:03:11 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 7:03:11 - 35秒后进行下一轮
+2025/10/15 7:03:46 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 7:03:46 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 18:02:43 - 已加载 1 个地址
+2025/10/15 18:02:43 - 已加载 0 条代理
+2025/10/15 18:02:45 - 当前时间: 2025-10-15 18:02:45
+2025/10/15 18:02:45 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 18:02:46 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:02:46 - 35秒后进行下一轮
+2025/10/15 18:03:22 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:03:22 - 35秒后进行下一轮
+2025/10/15 18:03:58 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:03:58 - 35秒后进行下一轮
+2025/10/15 18:04:34 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:04:34 - 35秒后进行下一轮
+2025/10/15 18:05:10 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:05:10 - 35秒后进行下一轮
+2025/10/15 18:05:46 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:05:46 - 35秒后进行下一轮
+2025/10/15 18:06:22 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:06:22 - 35秒后进行下一轮
+2025/10/15 18:06:57 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:06:57 - 35秒后进行下一轮
+2025/10/15 18:07:33 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:07:33 - 35秒后进行下一轮
+2025/10/15 18:08:08 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 18:08:08 - 35秒后进行下一轮
+2025/10/15 18:08:44 - 当前时间: 2025-10-15 18:08:44
+2025/10/15 18:08:44 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 18:08:45 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 18:08:46 - 账号 1 遇到限制，等待 1小时19分58秒后继续提交
+2025/10/15 19:28:51 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:28:51 - 35秒后进行下一轮
+2025/10/15 19:29:27 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:29:27 - 35秒后进行下一轮
+2025/10/15 19:30:03 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:30:03 - 35秒后进行下一轮
+2025/10/15 19:30:39 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:30:39 - 35秒后进行下一轮
+2025/10/15 19:31:16 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:31:16 - 35秒后进行下一轮
+2025/10/15 19:31:52 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:31:52 - 35秒后进行下一轮
+2025/10/15 19:32:27 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:32:27 - 35秒后进行下一轮
+2025/10/15 19:33:03 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:33:03 - 35秒后进行下一轮
+2025/10/15 19:33:39 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:33:39 - 35秒后进行下一轮
+2025/10/15 19:34:15 - 当前时间: 2025-10-15 19:34:15
+2025/10/15 19:34:15 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 19:34:15 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 19:34:15 - 35秒后进行下一轮
+2025/10/15 19:34:53 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 19:34:53 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 20:54:53 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:54:53 - 35秒后进行下一轮
+2025/10/15 20:55:29 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:55:29 - 35秒后进行下一轮
+2025/10/15 20:56:04 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:56:04 - 35秒后进行下一轮
+2025/10/15 20:56:40 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:56:40 - 35秒后进行下一轮
+2025/10/15 20:57:16 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:57:16 - 35秒后进行下一轮
+2025/10/15 20:57:51 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:57:51 - 35秒后进行下一轮
+2025/10/15 20:58:27 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:58:27 - 35秒后进行下一轮
+2025/10/15 20:59:03 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:59:03 - 35秒后进行下一轮
+2025/10/15 20:59:39 - 当前时间: 2025-10-15 20:59:39
+2025/10/15 20:59:39 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 20:59:39 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 20:59:39 - 35秒后进行下一轮
+2025/10/15 21:00:15 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 21:00:15 - 35秒后进行下一轮
+2025/10/15 21:00:51 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 21:00:51 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 22:23:22 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:23:22 - 35秒后进行下一轮
+2025/10/15 22:23:58 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:23:58 - 35秒后进行下一轮
+2025/10/15 22:24:33 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:24:33 - 35秒后进行下一轮
+2025/10/15 22:25:09 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:25:09 - 35秒后进行下一轮
+2025/10/15 22:25:45 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:25:45 - 35秒后进行下一轮
+2025/10/15 22:26:21 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:26:21 - 35秒后进行下一轮
+2025/10/15 22:26:56 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:26:56 - 35秒后进行下一轮
+2025/10/15 22:27:32 - 当前时间: 2025-10-15 22:27:32
+2025/10/15 22:27:32 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 22:27:33 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:27:33 - 35秒后进行下一轮
+2025/10/15 22:28:09 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:28:09 - 35秒后进行下一轮
+2025/10/15 22:28:45 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 22:28:45 - 35秒后进行下一轮
+2025/10/15 22:29:20 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 22:29:20 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/15 23:49:23 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:49:23 - 35秒后进行下一轮
+2025/10/15 23:50:01 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:50:01 - 35秒后进行下一轮
+2025/10/15 23:50:36 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:50:36 - 35秒后进行下一轮
+2025/10/15 23:51:12 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:51:12 - 35秒后进行下一轮
+2025/10/15 23:51:47 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:51:47 - 35秒后进行下一轮
+2025/10/15 23:52:23 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:52:23 - 35秒后进行下一轮
+2025/10/15 23:52:59 - 当前时间: 2025-10-15 23:52:59
+2025/10/15 23:52:59 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/15 23:53:00 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:53:00 - 35秒后进行下一轮
+2025/10/15 23:53:36 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:53:36 - 35秒后进行下一轮
+2025/10/15 23:54:12 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:54:12 - 35秒后进行下一轮
+2025/10/15 23:54:48 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/15 23:54:48 - 35秒后进行下一轮
+2025/10/15 23:55:23 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/15 23:55:23 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/16 6:57:26 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 6:58:09 - 35秒后进行下一轮
+2025/10/16 6:58:32 - 已加载 1 个地址
+2025/10/16 6:58:32 - 已加载 0 条代理
+2025/10/16 6:58:35 - 当前时间: 2025-10-16 06:58:35
+2025/10/16 6:58:35 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/16 6:58:36 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 6:58:36 - 35秒后进行下一轮
+2025/10/16 6:59:12 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 6:59:12 - 35秒后进行下一轮
+2025/10/16 6:59:47 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 6:59:47 - 35秒后进行下一轮
+2025/10/16 7:00:23 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 7:00:23 - 35秒后进行下一轮
+2025/10/16 7:00:59 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 7:00:59 - 35秒后进行下一轮
+2025/10/16 7:01:34 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 7:01:34 - 35秒后进行下一轮
+2025/10/16 7:02:10 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 7:02:10 - 35秒后进行下一轮
+2025/10/16 7:02:45 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 7:02:45 - 35秒后进行下一轮
+2025/10/16 7:03:21 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 7:03:21 - 35秒后进行下一轮
+2025/10/16 7:03:56 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/16 7:03:56 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/16 9:39:52 - 已加载 1 个地址
+2025/10/16 9:39:52 - 已加载 0 条代理
+2025/10/16 9:39:54 - 当前时间: 2025-10-16 09:39:54
+2025/10/16 9:39:54 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/16 9:39:55 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:39:55 - 35秒后进行下一轮
+2025/10/16 9:40:31 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:40:31 - 35秒后进行下一轮
+2025/10/16 9:41:07 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:41:07 - 35秒后进行下一轮
+2025/10/16 9:41:43 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:41:43 - 35秒后进行下一轮
+2025/10/16 9:42:19 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:42:19 - 35秒后进行下一轮
+2025/10/16 9:42:55 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:42:55 - 35秒后进行下一轮
+2025/10/16 9:43:31 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:43:31 - 35秒后进行下一轮
+2025/10/16 9:44:07 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:44:07 - 35秒后进行下一轮
+2025/10/16 9:44:43 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:44:43 - 35秒后进行下一轮
+2025/10/16 9:45:19 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 9:45:19 - 35秒后进行下一轮
+2025/10/16 9:45:55 - 当前时间: 2025-10-16 09:45:55
+2025/10/16 9:45:55 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/16 9:45:56 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/16 9:45:56 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
+2025/10/16 11:05:57 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:05:57 - 35秒后进行下一轮
+2025/10/16 11:06:34 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:06:34 - 35秒后进行下一轮
+2025/10/16 11:07:10 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:07:10 - 35秒后进行下一轮
+2025/10/16 11:07:46 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:07:46 - 35秒后进行下一轮
+2025/10/16 11:08:22 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:08:22 - 35秒后进行下一轮
+2025/10/16 11:08:57 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:08:57 - 35秒后进行下一轮
+2025/10/16 11:09:33 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:09:33 - 35秒后进行下一轮
+2025/10/16 11:10:09 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:10:09 - 35秒后进行下一轮
+2025/10/16 11:10:45 - 第10次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:10:45 - 35秒后进行下一轮
+2025/10/16 11:11:21 - 当前时间: 2025-10-16 11:11:21
+2025/10/16 11:11:21 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/16 11:11:21 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 11:11:21 - 35秒后进行下一轮
+2025/10/16 12:27:59 - 提交失败: The SSL connection could not be established, see inner exception.
+2025/10/16 12:28:02 - 第2次-成绩提交:提交失败
+2025/10/16 12:28:03 - 35秒后进行下一轮
+2025/10/16 12:28:41 - 提交失败: The SSL connection could not be established, see inner exception.
+2025/10/16 12:28:45 - 第2次-成绩提交:提交失败
+2025/10/16 12:28:47 - 35秒后进行下一轮
+2025/10/16 18:02:43 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:02:45 - 35秒后进行下一轮
+2025/10/16 18:03:12 - 已加载 1 个地址
+2025/10/16 18:03:12 - 已加载 0 条代理
+2025/10/16 18:03:15 - 当前时间: 2025-10-16 18:03:15
+2025/10/16 18:03:15 - 当前执行账号:1 - 0x3697D620C41B06a101cdCAd9af95f3D6F43a5554
+2025/10/16 18:03:20 - 第1次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:03:20 - 35秒后进行下一轮
+2025/10/16 18:03:56 - 第2次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:03:56 - 35秒后进行下一轮
+2025/10/16 18:04:31 - 第3次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:04:32 - 35秒后进行下一轮
+2025/10/16 18:05:07 - 第4次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:05:07 - 35秒后进行下一轮
+2025/10/16 18:05:43 - 第5次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:05:43 - 35秒后进行下一轮
+2025/10/16 18:06:18 - 第6次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:06:18 - 35秒后进行下一轮
+2025/10/16 18:06:54 - 第7次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:06:54 - 35秒后进行下一轮
+2025/10/16 18:07:30 - 第8次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:07:30 - 35秒后进行下一轮
+2025/10/16 18:08:05 - 第9次-成绩提交:Successfully submitted to leaderboard!
+2025/10/16 18:08:05 - 35秒后进行下一轮
+2025/10/16 18:08:42 - ⚠ 接口限制，账号 1 暂停 80 分钟后重试
+2025/10/16 18:08:42 - 账号 1 遇到限制，等待 1小时19分59秒后继续提交
