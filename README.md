@@ -13,6 +13,7 @@
 🪜 一、准备环境
 
 1️⃣ 安装 .NET SDK 8.0 或更高版本
+https://dotnet.microsoft.com/zh-cn/download/dotnet
 
 2️⃣ 下载本项目代码（点击右上角 Code → Download ZIP）
 3️⃣ 解压到任意文件夹，比如：
