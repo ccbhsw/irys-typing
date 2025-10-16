@@ -9,16 +9,36 @@
 可多账号运行
 
 支持代理（可选）
+🪜 一、环境准备（必须先完成）
+1️⃣ 安装 .NET SDK
 
-🪜 一、准备环境
+脚本基于 .NET 8.0 或更高版本运行。
 
-1️⃣ 安装 .NET SDK 8.0 或更高版本
-https://dotnet.microsoft.com/zh-cn/download/dotnet
+前往官网下载：https://dotnet.microsoft.com/zh-cn/download/dotnet
 
-2️⃣ 下载本项目代码（点击右上角 Code → Download ZIP）
-3️⃣ 解压到任意文件夹，比如：
+根据你的系统选择 Windows x64 SDK 安装包。
+
+安装完成后，打开命令提示符（CMD）输入以下命令验证是否成功：
+
+dotnet --version
+
+
+若显示版本号（如 9.0.305），说明安装成功 ✅
+
+🧩 二、下载项目代码
+✅ 方法一：直接下载 ZIP（推荐）
+
+1️⃣ 打开项目页面（例如你的 GitHub 仓库链接）
+2️⃣ 点击右上角绿色按钮 「Code」 → 「Download ZIP」
+3️⃣ 下载完成后解压到任意位置，例如：
 
 C:\Users\Administrator\irys-typing-script
+
+✅ 方法二：使用 Git 克隆
+
+如果电脑装有 Git，可以使用命令行直接克隆：
+
+git clone https://github.com/你的用户名/irys-typing.git
 
 🧩 二、文件说明
 文件名	作用
